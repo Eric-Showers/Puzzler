@@ -117,7 +117,7 @@ public class NinePuzzleFINAL{
 			}
 		}
 		/***********************************************************
-							End graph construction
+				End graph construction
 		************************************************************/
 
 		//Get the start and target indices
